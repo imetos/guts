@@ -12,6 +12,6 @@
               "HEADER_SECONDARY" : ["#8c5006"],
               "TEXT_MUTED" :["#8c5006" ],
               "INTERACTIVE_ACTIVE" : ["#0073ff"],
-              "TEXT_LINK" : ["#0073ff"],
+              "TEXT_LINK" : ["#0073ff"]
       },                
 }
