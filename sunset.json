@@ -7,7 +7,7 @@
             "id": "778695192684920842"
         }
     ],
-   "semantiColors" : {
+   "semanticColors" : {
               "HEADER_PRIMARY" : ["#8c5006"],
               "HEADER_SECONDARY" : ["#8c5006"],
               "TEXT_MUTED" :["#8c5006" ],
